@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 62a7a5ea-6e68-42b9-8e4f-70a78755c0cb
-  WEBAPP-NAME: eshoponweb-webapp-github
+  WEBAPP-NAME: eshoponweb-webapp-githubg4
 
 
 jobs:
